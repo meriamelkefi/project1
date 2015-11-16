@@ -1,1 +1,3 @@
-class first{}
+class first{
+	int x=0;
+}
